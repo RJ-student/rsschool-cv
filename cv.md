@@ -101,6 +101,10 @@ function sum(arr) {
 - Showcased various personal projects and design works.
 - Implemented smooth scrolling and interactive elements to enhance user experience.
 
+#### Example of my work
+
+[My CV](https://rj-student.github.io/rsschool-cv/cv)
+
 ### E-commerce Website Prototype
 
 - Developed a prototype for an e-commerce website using React.js.
