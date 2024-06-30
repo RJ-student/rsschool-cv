@@ -114,3 +114,6 @@ function sum(arr) {
 - Photography
 - Digital Art
 - Reading tech blogs and staying updated with the latest web development trends
+
+![logo-rsschool3](https://github.com/RJ-student/rsschool-cv/assets/174154383/2f1bf811-b0a8-428e-b854-3d832de83d62)
+
