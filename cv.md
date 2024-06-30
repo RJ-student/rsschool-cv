@@ -101,7 +101,7 @@ function sum(arr) {
 - Showcased various personal projects and design works.
 - Implemented smooth scrolling and interactive elements to enhance user experience.
 
-#### Example of my work
+### Example of my work
 
 [My CV](https://rj-student.github.io/rsschool-cv/cv)
 
