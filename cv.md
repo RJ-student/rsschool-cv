@@ -1,8 +1,10 @@
 # Reena J
 **Junior Frontend Developer**
 
-### Contact Information:
+![1_3xs6WQe-U1RdyLzDuAOfTQ](https://github.com/RJ-student/rsschool-cv/assets/174154383/03cb172f-40e5-4c2b-8599-87bbd4c327d3)
 
+
+### Contact Information:
 - **Phone:** +1 234 567 8900
 - **E-mail:** reena.j@example.com
 - **Telegram:** @reenaj
