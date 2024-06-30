@@ -1,4 +1,4 @@
-# Reena J
+# Reena Jjjj
 **Junior Frontend Developer**
 
 ![1_3xs6WQe-U1RdyLzDuAOfTQ](https://github.com/RJ-student/rsschool-cv/assets/174154383/03cb172f-40e5-4c2b-8599-87bbd4c327d3)
